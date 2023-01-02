@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "debug": "^4.3.4",
+    "node-bacnet": "^0.2.4"
+  },
+  "name": "bacnet-bbmd",
+  "version": "1.0.0",
+  "description": "A BACnet BBMD device implementation using node-bacnet stack. It extends the Client class to handle broadcast and forwarded messagges",
+  "main": "bacnet-bbmd.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bacnet",
+    "bbmd"
+  ],
+  "author": "Gerardo Cibeira",
+  "license": "MIT"
+}
